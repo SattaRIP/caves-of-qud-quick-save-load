@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<commands>
+    <!-- Quick Save -->
+    <command ID="TimeControl_QuickSave"
+             DisplayText="Quick Save"
+             Category="Mod: Time Control"
+             Layer="Adventure"
+             Auto="Down">
+        <keyboardBind Key="f5"/>
+    </command>
+
+    <!-- Quick Load -->
+    <command ID="TimeControl_QuickLoad"
+             DisplayText="Quick Load"
+             Category="Mod: Time Control"
+             Layer="Adventure"
+             Auto="Down">
+        <keyboardBind Key="f6"/>
+    </command>
+</commands>

@@ -1,0 +1,8 @@
+{
+    "ID": "timecontrol",
+    "Title": "Quick Save/Load",
+    "Author": "mythraps",
+    "Description": "Simple quick save and load functionality. Press F5 to quick save, F6 to quick load.",
+    "Tags": "quality of life, gameplay, utility",
+    "PreviewImage": "preview.png"
+}
