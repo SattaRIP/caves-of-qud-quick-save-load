@@ -1,7 +1,8 @@
 {
   "WorkshopId": 3643340584,
   "Title": "Quick Save/Load",
-  "Description": "Press F5 to quick save, F6 to quick load. \"Save scumming\" made easier.",
+  "Description": "Press F5 to quick save, F6 to quick load. \"Save scumming\" made easier.\n\nGitHub: https://github.com/SattaRIP/caves-of-qud-quick-save-load\nSupport my mods on Patreon: patreon.com/mythraps",
   "Tags": "quality of life, gameplay, utility",
-  "Visibility": "2"
+  "Visibility": "0",
+  "ImagePath": "preview.png"
 }
