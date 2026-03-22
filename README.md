@@ -58,6 +58,10 @@ Uses Caves of Qud's built-in checkpoint system:
 
 Created by mythraps
 
+## Support
+
+If you enjoy this mod, consider supporting me on [Patreon](https://www.patreon.com/c/mythraps)!
+
 ## License
 
 Feel free to modify and share!
